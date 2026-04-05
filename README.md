@@ -1,6 +1,6 @@
 # jpa01-alexiasargsyan
 
-Deployed at: https://jpa01-replace-me.dokku-05.cs.ucsb.edu
+Deployed at: http://jpa01-alexiasargsyan.dokku-05.cs.ucsb.edu/
 
 # About this repo
 
